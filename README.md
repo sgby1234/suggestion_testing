@@ -2,10 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Clone this repo
 1. install node.js on your computer
-2. npx install react
-3. clone this repo
-4. npm install (will install all needed dependencies)
-5. npm run
+2. clone this repo
+3. `npm install` (will install all needed dependencies)
+4. `npm start`
 ## Available Scripts
 
 In the project directory, you can run:
