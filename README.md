@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Clone this repo
+1. install node.js on your computer
+2. npx install react
+3. clone this repo
+4. npm install (will install all needed dependencies)
+5. npm run
 ## Available Scripts
 
 In the project directory, you can run:
