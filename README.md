@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## App
+This is a POC app for a member portal. The app supports two searching features
+1. Completion suggester/dropdown suggestions : as users type in search queries a dropdown appears on their input field with suggestions
+2. Search-as-you-type : all searches are executed as the user types. Search results are constantly updated on the results table.
 
 ## Clone this repo
 1. install node.js on your computer
